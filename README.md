@@ -22,7 +22,11 @@ Key Features:
 
 
 Technologies Used:
+
 Frontend: HTML, CSS
+
 Backend: PHP, JAVA SCRIPT
+
 Database: MySQL
+
 Payment: PayPal
