@@ -1,5 +1,4 @@
 Mobile Online Ordering System
-
 This is a Mobile Online Ordering System built to simplify and streamline the process of ordering products from a mobile device. The system allows users to browse products, add them to their cart, and place orders with ease.
 
 Key Features:
